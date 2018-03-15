@@ -504,6 +504,16 @@ custom_mountain_zone;Mountain Zone;;;;;;;;;;;;;x
 custom_central_america;Central America;;;;;;;;;;;;;x
 custom_neoladino;Neoladino Cultural Area;;;;;;;;;;;;;x
 
+###########Societies#############
+
+String_Old_world;Old Worlders;;;;;;;;;;;;;x
+String_Mormons;Mormons;;;;;;;;;;;;;x
+String_Afro_syncretic;Afro-Syncretics;;;;;;;;;;;;;x
+String_American_native;American Natives;;;;;;;;;;;;;x
+String_Pirate;Pirates;;;;;;;;;;;;;x
+String_Pacific;Pacificans;;;;;;;;;;;;;x
+String_Cult_of_saints;Cults of Saints;;;;;;;;;;;;;x
+String_Mesoamerican_gods;Mesoamericans;;;;;;;;;;;;;x
 
 ###########Other###########
 

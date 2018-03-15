@@ -59,3 +59,30 @@ warrior_trigger = {
 		trait = peasant_leader
 	}
 }
+
+#Religion Triggers
+
+true_religion_group_oldworld_trigger = {
+	true_religion_group = oldworld
+}
+true_religion_group_pacific_trigger = {
+	true_religion_group = pacific
+}
+true_religion_group_pirate_trigger = {
+	true_religion_group = pirate
+}
+true_religion_group_afro_syncretic_trigger = {
+	true_religion_group = afro_syncretic
+}
+true_religion_group_american_native_trigger = {
+	true_religion_group = american_native
+}
+true_religion_group_cult_of_saints_trigger = {
+	true_religion_group = cult_of_saints
+}
+true_religion_group_latter_day_saints_trigger = {
+	true_religion_group = latter_day_saints
+}
+true_religion_group_mesoamerican_gods_trigger = {
+	true_religion_group = mesoamerican_gods
+}

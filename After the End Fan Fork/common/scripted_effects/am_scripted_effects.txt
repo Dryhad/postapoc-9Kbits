@@ -59,6 +59,49 @@ add_sympathy_effect = {
 	}
 }
 
+# Add a sympathy trait for the true religion
+add_sympathy_true_effect = {
+	if = {
+		limit = { PREV = { true_religion_group = pagan_group } }
+		add_trait = sympathy_pagans
+	}
+	if = {
+		limit = { PREV = { true_religion_group = afro_syncretic } }
+		add_trait = sympathy_afro_syncretic
+	}
+	if = {
+		limit = { PREV = { true_religion_group = american_native } }
+		add_trait = sympathy_american_native
+	}
+	if = {
+		limit = { PREV = { true_religion_group = christian } }
+		add_trait = sympathy_christendom
+	}
+	if = {
+		limit = { PREV = { true_religion_group = cult_of_saints } }
+		add_trait = sympathy_cult_of_saints
+	}
+	if = {
+		limit = { PREV = { true_religion_group = pacific } }
+		add_trait = sympathy_pacific
+	}
+	if = {
+		limit = { PREV = { true_religion_group = latter_day_saints } }
+		add_trait = sympathy_latter_day_saints
+	}
+	if = {
+		limit = { PREV = { true_religion_group = mesoamerican_gods } }
+		add_trait = sympathy_mesoamerican_gods
+	}
+	if = {
+		limit = { PREV = { true_religion_group = oldworld } }
+		add_trait = sympathy_oldworld
+	}	
+	if = {
+		limit = { PREV = { true_religion_group = pirate } }
+		add_trait = sympathy_pirate
+	}
+}
 clear_banking_flags_effect = {
 	clr_character_flag = loan_taken
 	clr_character_flag = loan_100
