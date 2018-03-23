@@ -549,6 +549,7 @@ e_caribbean = {
 				holy_site = rastafarian
 				holy_site = espiritista
 				holy_site = espiritista_reformed
+				holy_site = hindu
 				
 				b_port_of_spain_ANT = {}
 				b_san_fernando_ANT = {}

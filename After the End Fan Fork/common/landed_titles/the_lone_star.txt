@@ -514,6 +514,8 @@ e_lone_star = {
 			c_comal = {
 				color = { 120 190 75 }
 				color2= { 255 255 20 }
+				
+				holy_site = hindu
 
 				b_new_braunfels_TX = {
 					rostmann = "Neu-Braunfels"

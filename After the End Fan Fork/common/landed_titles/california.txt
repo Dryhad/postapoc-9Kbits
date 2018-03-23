@@ -947,6 +947,7 @@ e_california = {
 				color2={ 255 255 255 }
 				holy_site = consumerist
 				holy_site = shinto
+				holy_site = hindu
 				
 				b_hollywood_CA = {}
 				b_long_beach_CA = {}

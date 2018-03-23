@@ -12,6 +12,6 @@ b_castara_ANT = city
 
 # Misc
 culture = calypsonian
-religion = rastafarian
+religion = hindu
 
 #History

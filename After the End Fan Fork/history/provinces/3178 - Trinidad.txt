@@ -13,6 +13,6 @@ b_arima_ANT = temple
 
 # Misc
 culture = calypsonian
-religion = rastafarian
+religion = hindu
 
 #History
